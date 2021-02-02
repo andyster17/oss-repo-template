@@ -16,12 +16,12 @@ Jesse was abused. A giant coorperation decided to bully somone with technical pr
 
 
 ### Ubuntu setup
-![](Ubuntu.JPG.jpg)
+![](Ubuntu.JPG)
 
 ### 4 Regex
 
-![](Oss lab 1 part 2.PNG.png)
+![](Oss lab 1 part 2.PNG)
 
-![](Oss lab 1.PNG.png)
+![](Oss lab 1.PNG)
 
 ### 5 Snap
