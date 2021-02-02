@@ -26,3 +26,7 @@ Jesse was abused. A giant coorperation decided to bully somone with technical pr
 
 ### 5 Snap
 ![](Maze.JPG)
+
+### 6 Reflection
+
+A project I hjave always wanted to workon is a personal secretary program. I mainly want to develope an application that is capable of taking tasks such as (Oss Hwk, Est Time:4 hours, Due Date:feb 1st) and scheduling that all tasks can be scheduled to be completed by the time they are due. I have ADHD and often struggle with time management, something like this would most likely save me many missed deadlines and organize my life. Mainly, I would like to be able to manage and store data on task completion time to be able to help those who mismanage their time understnad how long tasks of a certain type actually take them. This would most likely involve developing an ARFIMA or other light weight simple statistical model to help interpret task data. Furthermore I would most likely create my own calander app, or I would use Googles API (although I;m not sure if that fits the theme of open source). 
