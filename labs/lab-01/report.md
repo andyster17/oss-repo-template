@@ -16,8 +16,8 @@ Jesse was abused. A giant coorperation decided to bully somone with technical pr
 
 ### 4 Regex
 
-![](OSS lab 1 part 2.PNG)
+![](Oss lab 1 part 2.PNG)
 
-![](OSS lab 1.PNG)
+![](Oss lab 1.PNG)
 
 ### 5 Snap
