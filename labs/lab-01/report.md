@@ -20,9 +20,9 @@ Jesse was abused. A giant coorperation decided to bully somone with technical pr
 
 ### 4 Regex
 
-![](Oss lab 1 part 2.PNG)
+![](Osslab1part2.PNG)
 
-![](Oss lab 1.PNG)
+![](Osslab1.PNG)
 
 ### 5 Snap
 ![](Maze.JPG)
