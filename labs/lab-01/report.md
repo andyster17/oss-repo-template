@@ -14,10 +14,14 @@
 
 Jesse was abused. A giant coorperation decided to bully somone with technical prowess just to make a couple of dollars. Unfortunately the nature of such a lawsuit made it illogical to fight back. Such a suit ended up costing Jesse 12,000 dollars. With the inital claim for 15 millions dollars, clearly there was no actual value lost. If true value was lost the RIAA would not have settled for Jesse's life savings. This was a blatant abuse of power which resulted in a unfair outcome for Jesse. I can only imagine if I had gone through the same events, how infuriated I would be. 
 
+
+### Ubuntu setup
+![](Ubuntu.JPG.jpg)
+
 ### 4 Regex
 
-![](Oss lab 1 part 2.PNG)
+![](Oss lab 1 part 2.PNG.png)
 
-![](Oss lab 1.PNG)
+![](Oss lab 1.PNG.png)
 
 ### 5 Snap
